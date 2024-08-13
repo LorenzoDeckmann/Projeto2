@@ -23,3 +23,22 @@ Acessar e obter dados coletados dessas criaturas.
 ## Protótipo 2:
 
 ![Untitled (2)](https://github.com/LorenzoDeckmann/Projeto2/assets/131269251/cb20c7e2-2a72-46d5-9c75-c8cae8fa77f6)
+
+## Breve atualização 12/08/24
+
+-Continuidade do projeto com algumas mudanças:
+
+-Tela inicial onde tem a opção de entrar;
+
+-Ter um cadastro;
+
+-Aplicar os meios de confimação de entrada, além de um login proprio e a opção de criação;
+pagina inicial onde pode-se ver as opções de "adicionar criatura" ou "criaturas registradas";
+
+-Adicionar criatura:ao clicar neste botão, a pessoa é redirecionada para uma pagina onde ela 
+devera adicionar as devidas informaçoes para confirmar e adicionar essa nova criatura as "criaturas registradas"
+
+-Criaturas registradas:um local com uma lista de criaturas.Ao clicar na pagina de uma delas, abre uma tabela com 
+informações.Caso a pessoa adicione uma nova criatura em "adicionar criatura", essa criatura aparecera na lista 
+junto com as outras fichas salvas
+ 
